@@ -15,7 +15,7 @@ int main()
     std::cout << "マージしてください\n";
 
     std::cout << "マージします！\n";
-;
+
 }    
 
 
